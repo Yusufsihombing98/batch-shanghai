@@ -1,0 +1,1 @@
+ini adala file3.txt
